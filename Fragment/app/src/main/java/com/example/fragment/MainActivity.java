@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         Button1 = findViewById(R.id.btn_1);
-        
+        Button2 = findViewById(R.id.btn_2);
+
+
     }
 }
