@@ -1,2 +1,2 @@
 # Mobile_Computing_Progress
-Anything studied through
+Anything studied throughout the course
